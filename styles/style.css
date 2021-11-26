@@ -1,0 +1,25 @@
+div {
+ background-color:#65FEFE ;
+ border: 2px solid purple;
+ position: absolute;
+ width: 100px;
+ height: 100px;
+ text-align: center;
+}
+
+#d1 {
+left: 150px;
+}
+
+.d2 {
+ left: 300px; 
+}
+
+#d2 {
+ 
+    left: 450px;
+}
+
+.d3 {
+    left: 600px;
+}
